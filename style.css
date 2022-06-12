@@ -1,0 +1,817 @@
+.container1{
+    padding: 1% 1% 1% 1%;
+ }
+ #main{
+    margin-left: 10px;
+    position: relative;
+ }
+ #main1{
+   height: auto;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+ }
+ .a{
+    font-size: 4.3vw;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(214, 13, 13);
+    font-weight: bolder;
+ }
+ .sp{
+    font-family: 'Quicksand', sans-serif;
+    color: rgb(157, 151, 151);
+    font-size: 4.3vw;
+ }
+ .b1{
+   font-family: 'Quicksand', sans-serif;
+   color: rgb(121, 115, 115) ;
+   font-size: 2.8vw;
+   position: absolute;
+   left: 82vw;
+   top: -2vw;
+   font-weight: 500;
+ }
+ .plus{
+    position: absolute;
+    left:78vw;
+    top: 5px;
+    font-size: 45px;
+    color: rgb(20, 36, 180);
+   
+ }
+.box{
+    border: 1px solid rgb(245, 55, 55) ;
+    height:25vw ;
+    width: 17vw;
+    margin: 30px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px rgb(205, 198, 198);
+    box-sizing: border-box;
+    position: relative;
+    text-align: center;
+}
+.h{
+   width: 70%;
+}
+
+#t{
+   font-family: 'Heebo', sans-serif;
+   color:rgba(252, 41, 41, 0.991) ;
+   font-size: 2vw ;
+}
+.a2{
+   font-size: 1.8vw;
+   text-decoration: line-through;
+   color: red;
+   text-shadow: 0.3px 0.3px ;
+ }
+.a3{
+   margin-top: 1.6vw;
+   font-family: 'Heebo', sans-serif;
+   font-weight: bold;
+   font-size:1.6vw;
+   position: absolute;
+   margin-left: -4vw;
+}
+.a1{
+   font-family: 'Quicksand', sans-serif;
+   color: rgba(252, 41, 41, 0.991);
+   font-size: 2vw;
+   text-align: center; 
+   text-decoration: none;
+   cursor: pointer;
+}
+.checkbox{
+   width: 2vw;
+    height: 1.5vw;
+    margin-top: 2vw;
+    display: block;
+    margin-left: 1vw;
+    position: absolute;
+}
+   .container
+   {
+      filter: blur(10px);    
+ }
+#popup{
+   width: 32vw;
+   height: 18vw;
+   border: 1.5px solid rgb(76, 0, 255);
+   border-radius: 1vw;
+   position: relative;
+   background-color: white;
+   box-shadow: 5px 5px 5px rgb(205, 198, 198);  
+   bottom: 22vw;
+   left: 33vw;
+   text-align: center;
+}
+.div{
+     padding:2vw;
+}
+.Add{
+   font-family: 'Quicksand', sans-serif;
+   font-size: 1.8vw;
+   font-weight: bold;
+   color: rgb(189, 216, 14);
+}
+.inpt{
+   height: 3vw;
+   width: 25vw;
+   border: 1px solid rgb(234, 50, 50);
+   border-radius: 5px
+}
+.button{ 
+   background-color: #fc8217;
+    border: none;
+    color: white;
+    text-align: center;
+    border-radius: 1.8vw;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1.6vw;
+    width: 8vw;
+    cursor: pointer;
+    margin:0;
+    padding: 1vw 2vw;
+}
+#head{
+   text-align: center;
+   padding: 3% 25% 5% 25%;
+
+}
+
+ h1 {
+   font-family: 'PT Sans', sans-serif;
+   color: rgb(131, 8, 76);
+   font-size: 3.4em;
+   font-weight: bolder;
+   display: flex;
+   flex-direction: row;
+}
+h1:before, h1:after{
+   content: "";
+   flex: 1 1;
+   border-bottom: 2px solid rgb(142, 142, 142);
+   margin: auto;
+}
+ h1:before {
+   margin-right: 15px
+}
+ h1:after {
+   margin-left: 15px
+}
+.back{
+   font-family: 'Quicksand', sans-serif;
+    color: rgb(105, 101, 101);
+    font-size: 2.3vw;
+    left: 50%;
+    font-weight: bold;
+    position: fixed;
+  }
+  .icon{
+     position: relative;
+     left: -5%;
+     top: 0px;
+     font-size: 35px;
+     color: rgb(39, 7, 178);
+  }
+.tp1{
+   font-family: 'Quicksand', sans-serif;
+   color: rgba(252, 41, 41, 0.991);
+   font-size: 1.8vw;
+   text-align: center; 
+   cursor: pointer;
+   font-weight: 600;
+   padding-top: 10px;
+   text-decoration: none;
+
+}
+#main3{
+   height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.box3{
+   border: 1px solid rgba(252, 41, 41, 0.991);
+    height:24vw ;
+    width: 25vw;
+    margin: 30px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px rgb(205, 198, 198);
+    box-sizing: border-box;
+    text-align: center;
+    position:relative;
+    left: 36.3vw;
+    bottom: 1vw;
+}
+hr{
+   width: 70%;
+}
+.c2{
+   font-size: 1.8vw;
+   text-decoration: line-through;
+   color: rgba(252, 41, 41, 0.991);
+   text-shadow: 0.3px 0.3px ; 
+}
+.checkbox1{
+   width: 5vw;
+    height: 1.5vw;
+    margin-top: 1.5vw;
+    display: block;
+    margin-left: 4vw;
+    position: absolute;
+}
+.p3{
+   margin-top: 1.2vw;
+   font-family: 'Heebo', sans-serif;
+   font-weight: bold;
+   font-size:1.6vw;
+   position: absolute;
+   margin-left: -4.5vw;
+}
+.plus2{
+   position: absolute;
+   top: 80%;
+   left: 82%;
+   font-size: 35px;
+   color: rgb(38, 10, 173);
+}
+#popup1{
+   width: 32vw;
+   height: 18vw;
+   border: 1.5px solid rgb(255, 157, 0);
+   border-radius: 1vw;
+   position: relative;
+   background-color: white;
+   box-shadow: 5px 5px 5px rgb(205, 198, 198);  
+   bottom: 30vw;
+   left: 33vw;
+   text-align: center;
+}
+.icon3{
+   position: relative;
+   left: 40%;
+   top: -10px;
+   font-size: 35px;
+   color: rgb(21, 37, 219);
+}
+.icon4{
+   position: absolute;
+   left: 88%;
+   top: 180px;
+   font-size: 35px;
+   color:rgb(19, 38, 208) ;
+  }
+
+
+.button:hover{
+   background-color: rgb(184, 225, 200);
+}
+.a1:hover{
+   border: none;
+   background-color:white;
+   color: rgb(111, 12, 111);
+}
+.b1:hover{
+   border: none;
+   background-color: white;
+   color:rgb(255, 150, 13) ;
+}  
+.tp1:hover{
+   border: none;
+   background-color:white;
+   color: rgb(111, 12, 111);
+}
+.plus2:hover{
+   transform: scale(1.2)
+   }
+   .icon:hover{
+      transform: scale(1.2);
+   }
+   .icon4:hover{
+      transform: scale(1.2);
+   }
+   .plus:hover{
+      transform: scale(1.2);
+   }
+   .icon3:hover{
+      transform: scale(1.2);
+   }
+   .Add:hover{
+      border: none;
+   background-color:white;
+   color: rgb(111, 12, 111);
+   }
+/* for mobile only */
+@media only screen and (min-width: 320px ) and ( max-width: 480px) {
+   .container1{
+      padding: 10% 1% 1% 1%;
+   }
+   #main{
+      margin-left: 10px;
+      position: relative;
+      margin-bottom: 15px;
+   }
+   .b1{
+      display: none;
+   }
+   #main1{
+     height: auto;
+     display: flex;
+     flex-direction: column;
+     justify-content: space-evenly;
+   }
+   .a{
+      font-size: 12vw;
+      font-family: Arial, Helvetica, sans-serif;
+      color: rgb(0, 0, 0);
+      font-weight: bolder;
+   }
+   .sp{
+      font-family: 'Quicksand', sans-serif;
+      color: rgb(157, 151, 151);
+      font-size: 12vw;
+   }
+
+   .plus{
+      position: absolute;
+      left:75vw ;
+      top: 10px;
+      font-size: 35px;
+      color:rgb(20, 29, 210);
+     
+   }
+  .box{
+      border: 1px solid rgba(203, 73, 73, 0.678) ;
+      height:75px ;
+      width: auto;
+      margin: 10px 10px 20px 10px;
+      border-radius: 8px;
+      box-shadow: 3px 3px 5px rgb(205, 198, 198); 
+      box-sizing: border-box;
+      position: relative;
+      padding-right: 90px;
+  }
+  .a1{
+   font-family: 'Quicksand', sans-serif;
+   color: rgb(156, 150, 150);
+   font-size: 6.6vw;
+   /* text-align:center;  */
+   text-decoration: none;
+   cursor: pointer;
+   /* padding-bottom: 20px; */
+   font-weight: 600;
+}
+.h{
+   display: none;
+}
+.a2{
+   display: none;
+ }
+.a3{
+  display: none;
+}
+.checkbox{
+   display: none;
+}
+#t{
+   font-family: 'Heebo', sans-serif;
+   color: rgb(156, 150, 150);
+   font-size: 6.6vw;
+}
+#popup{
+   width: 60vw;
+   height: 30vw;
+   border: 1.5px solid rgb(255, 157, 0);
+   border-radius: 1vw;
+   position: absolute;
+   background-color: white;
+   box-shadow: 5px 5px 5px rgb(205, 198, 198);  
+   bottom: 60vw;
+   left: 20vw;
+   text-align: center;
+}
+.div{
+   padding:2vw;
+}
+.Add{
+ font-family: 'Quicksand', sans-serif;
+ font-size: 4vw;
+ font-weight: bold;
+ color: rgb(255, 3, 3);
+}
+.inpt{
+ height: 5vw;
+ width: 45vw;
+ border: 1px solid rgb(234, 50, 50);
+ border-radius: 3px
+}
+.button{ 
+ background-color: #fc8217;
+  border: none;
+  color: white;
+  text-align: center;
+  border-radius: 4vw;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 4.2vw;
+  width: 15vw;
+  cursor: pointer;
+  margin:-3vw;
+  padding: 1vw 3vw;
+}
+.icon4{
+   position: absolute;
+   left: 85%;
+   top: 70px;
+   font-size: 22px;
+   color:rgb(49, 3, 200);
+  }
+  #head{
+   text-align: center;
+   padding: 5% 8% 10% 20%;
+}
+
+ h1 {
+   font-family: 'PT Sans', sans-serif;
+   color: rgb(34, 9, 197);
+   font-size: 11.5vw;
+   font-weight: bolder;
+   display: flex;
+}
+h1:before, h1:after{
+   display: none;
+}
+ h1:before {
+   display: none;
+}
+ h1:after {
+   display: none;
+}
+.back{
+   display: none;
+  }
+  .icon{
+     position: relative;
+     left:-65%;
+     top: -62px;
+     font-size: 30px;
+     color: rgb(8, 70, 215);
+  }
+.tp1{
+   font-family: 'Quicksand', sans-serif;
+   color: rgba(252, 41, 41, 0.991);
+   font-size: 7vw;
+   text-align: center; 
+   cursor: pointer;
+   font-weight: 600;
+   padding-top: 10px;
+   text-decoration: none;
+
+}
+#main3{
+   height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: center;
+}
+.box3{
+   border: 1px solid rgba(252, 41, 41, 0.991);
+    height:100vw ;
+    width: 70vw;
+    margin: 30px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px rgb(205, 198, 198);
+    box-sizing: border-box;
+    text-align: center;
+    position:relative;
+    left:3%;
+    bottom: 20vw;
+}
+hr{
+   width: 60%;
+}
+.c2{
+   font-size: 6vw;
+   text-decoration: line-through;
+   color: rgba(252, 41, 41, 0.991);
+   text-shadow: 0.2px 0.2px 0.2px ; 
+   margin-bottom: 10px;
+}
+.checkbox1{
+   width: 5vw;
+    height: 6vw;
+    margin-top: 3vw;
+    display: block;
+    margin-left: 10vw;
+    position: absolute;
+}
+.p3{
+   margin-top: 2vw;
+   font-family: 'Heebo', sans-serif;
+   font-weight: bolder;
+   font-size:5.2vw;
+   position: absolute;
+   margin-left: -18vw;
+}
+.plus2{
+   position: absolute;
+   top: 85%;
+   left: 80%;
+   font-size: 35px;
+   color: rgb(32, 7, 200);
+}
+#popup1{
+   width: 60vw;
+   height: 30vw;
+   border: 1.5px solid rgb(255, 157, 0);
+   border-radius: 1vw;
+   position: absolute;
+   background-color: white;
+   box-shadow: 5px 5px 5px rgb(205, 198, 198);  
+   bottom: 60vw;
+   left: 20vw;
+   text-align: center;
+}
+ 
+.icon3{
+   position: absolute;
+   left: 85%;
+   top: 70px;
+   font-size: 22px;
+   color: rgb(13, 6, 194);
+}
+ }
+ /* for tab screen */
+ @media screen and (min-width:480px) and (max-width:900px) {
+   .container1{
+      padding: 7% 1% 1% 1%;
+   }
+   #main{
+      margin-left: 8px;
+      position: relative;
+      margin-bottom: 40px;
+   }
+   .b1{
+      display: none;
+   }
+   #main1{
+     height: auto;
+     display: flex;
+     flex-direction: column;
+     justify-content: space-evenly;
+   }
+   .a{
+      font-size: 13.5vw;
+      font-family: Arial, Helvetica, sans-serif;
+      color: rgb(15, 65, 230);
+      font-weight: bolder;
+   }
+   .sp{
+      font-family: 'Quicksand', sans-serif;
+      color: rgb(157, 151, 151);
+      font-size: 14vw;
+   }
+
+   .plus{
+      position: absolute;
+      left:80vw ;
+      top: 18px;
+      font-size: 55px;
+     color:  rgb(73, 14, 233);
+   }
+  .box{
+      border: 1px solid rgba(235, 61, 61, 0.787) ;
+      height:110px ;
+      width: auto;
+      margin: 10px 10px 20px 10px;
+      border-radius: 8px;
+      box-shadow: 5px 5px 5px rgb(205, 198, 198); 
+      box-sizing: border-box;
+      position: relative;
+      padding-right: 90px;
+      /* text-align: center; */
+  }
+  .a1{
+   font-family: 'Quicksand', sans-serif;
+   color: rgb(110, 107, 107);
+   font-size: 6.6vw;
+   /* text-align:center;  */
+   text-decoration: none;
+   cursor: pointer;
+   /* padding-bottom: 20px; */
+   font-weight: 600;
+}
+.h{
+   display: none;
+}
+.a2{
+   display: none;
+ }
+.a3{
+  display: none;
+}
+.checkbox{
+   display: none;
+}
+#t{
+   font-family: 'Heebo', sans-serif;
+   color: rgb(220, 7, 7);
+   font-size: 6.6vw;
+}
+#popup{
+   width: 78vw;
+   height: 44vw;
+   border: 1.5px solid rgb(255, 157, 0);
+   border-radius: 10px;
+   position: absolute;
+   background-color: white;
+   box-shadow: 5px 5px 5px rgb(205, 198, 198);  
+   bottom: 70vw;
+   left: 8vw;
+   text-align: center;
+}
+.div{
+   padding:5vw;
+}
+.Add{
+ font-family: 'Quicksand', sans-serif;
+ font-size: 5vw;
+ font-weight: bold;
+ color: rgb(255, 3, 3);
+}
+.inpt{
+ height: 9vw;
+ margin-bottom: 18px;
+ width: 50vw;
+ border: 1.5px solid rgb(234, 50, 50);
+ border-radius: 3px
+}
+.button{ 
+ background-color: #fc8217;
+  border: none;
+  color: white;
+  text-align: center;
+  border-radius: 4vw;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 5.4vw;
+  width: 19vw;
+  cursor: pointer;
+  padding: 1vw 3vw;
+}
+.icon4{
+   position: absolute;
+   left: 85%;
+   top: 165px;
+   font-size: 38px;
+   color:rgb(11, 18, 233);
+  }
+  #head{
+   text-align: center;
+   padding: 5% 8% 10% 20%;
+}
+
+ h1 {
+   font-family: 'PT Sans', sans-serif;
+   color: rgb(6, 148, 214);
+   font-size: 11.5vw;
+   font-weight: bolder;
+   display: flex;
+}
+h1:before, h1:after{
+   display: none;
+}
+ h1:before {
+   display: none;
+}
+ h1:after {
+   display: none;
+}
+.back{
+   display: none;
+  }
+  .icon{
+     position: relative;
+     left:-65%;
+     top: -90px;
+     color:rgb(27, 29, 25);
+     font-size:45px;
+  }
+.tp1{
+   font-family: 'Quicksand', sans-serif;
+   color: rgba(252, 41, 41, 0.991);
+   font-size: 7vw;
+   text-align: center; 
+   cursor: pointer;
+   font-weight: 600;
+   padding-top: 10px;
+   text-decoration: none;
+
+}
+#main3{
+   height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: center;
+}
+.box3{
+   border: 1px solid rgba(252, 41, 41, 0.991);
+    height:100vw ;
+    width: 70vw;
+    margin: 30px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px rgb(205, 198, 198);
+    box-sizing: border-box;
+    text-align: center;
+    position:relative;
+    left:3%;
+    bottom: 20vw;
+}
+hr{
+   width: 60%;
+}
+.c2{
+   font-size: 6vw;
+   text-decoration: line-through;
+   color: rgba(252, 41, 41, 0.991);
+   text-shadow: 0.2px 0.2px 0.2px ; 
+   margin-bottom: 10px;
+}
+.checkbox1{
+   width: 5vw;
+    height: 6vw;
+    margin-top: 3vw;
+    display: block;
+    margin-left: 10vw;
+    position: absolute;
+}
+.p3{
+   margin-top: 2vw;
+   font-family: 'Heebo', sans-serif;
+   font-weight: bolder;
+   font-size:5.2vw;
+   position: absolute;
+   margin-left: -18vw;
+}
+.plus2{
+   position: absolute;
+   top: 85%;
+   left: 80%;
+   font-size: 45px;
+   color: rgb(23, 7, 195);
+}
+#popup1{
+   width: 78vw;
+   height: 44vw;
+   border: 1.5px solid rgb(255, 157, 0);
+   border-radius: 10px;
+   position: absolute;
+   background-color: white;
+   box-shadow: 5px 5px 5px rgb(205, 198, 198);  
+   bottom: 70vw;
+   left: 8vw;
+   text-align: center;
+}
+.div{
+   padding:5vw;
+}
+.Add{
+ font-family: 'Quicksand', sans-serif;
+ font-size: 5vw;
+ font-weight: bold;
+ color: rgb(255, 3, 3);
+}
+.inpt{
+ height: 9vw;
+ margin-bottom: 18px;
+ width: 50vw;
+ border: 1.5px solid rgb(234, 50, 50);
+ border-radius: 3px
+}
+.button{ 
+ background-color: #fc8217;
+  border: none;
+  color: white;
+  text-align: center;
+  border-radius: 4vw;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 5.4vw;
+  width: 19vw;
+  cursor: pointer;
+  padding: 1vw 3vw;
+}
+.icon3{
+   position: absolute;
+   left: 85%;
+   top: 165px;
+   font-size: 38px;
+   color:rgb(35, 9, 209);
+   
+}
+ }
+
